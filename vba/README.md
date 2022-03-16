@@ -1,6 +1,6 @@
 # Veeam Backup for Microsoft Azure comes with its own REST API
 
-## Assumptions
+## Assumptions for testing
 
 - Veeam Backup for Microsoft Azure is deployed (you can find a free version on the Azure Marketplace)
 - The Veeam appliance can be accessed through https
